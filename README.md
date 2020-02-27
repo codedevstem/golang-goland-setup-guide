@@ -31,7 +31,9 @@ Once you have created your golang-project
 5. Remember to capitalize the functions and types that you want exported from the class
 6. Use the function in ```main.go``` and save
 7. Goland should now have automatically added an import statement for your new function
-
+8. Run the program by either 
+    -   Right-clicking on `main.go -> 'run go build main.go'`
+    -   Writing `go build main.go && ./main` 
 ### Example of finished structure
 
 ```
