@@ -39,8 +39,8 @@ Once you have created your golang-project
 ├── src
 |   └── yourmodule
 |   	└── yourmodule.go
-└── main.go
 └── mod.go
+└── main.go
 ```
 
 
