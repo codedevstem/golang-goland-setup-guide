@@ -27,7 +27,7 @@ Once you have created your golang-project
 1. Open a terminal
 2. Write ```go mod init github.com/<username>/<repository>```
 3. Create ```main.go```
-4. Create ```src/yourmodule/yourmodule.go`
+4. Create ```src/yourmodule/yourmodule.go```
 5. Remember to capitalize the functions and types that you want exported from the class
 6. Use the function in ```main.go``` and save
 7. Goland should now have automatically added an import statement for your new function
